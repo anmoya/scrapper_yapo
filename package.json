@@ -1,0 +1,21 @@
+{
+  "name": "yaposcrapper",
+  "version": "1.0.0",
+  "description": "Scrapper para yapo, usando puppeteer.",
+  "main": "scrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrapper",
+    "yapo",
+    "puppeteer",
+    "js",
+    "node"
+  ],
+  "author": "alfonso moya",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.14.0"
+  }
+}
